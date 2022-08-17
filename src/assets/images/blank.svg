@@ -1,0 +1,15 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47" width="47" height="47">
+	<title>STAKIN DESKTOP – 1</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-873-540h1920v1080h-1920z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { opacity: .3;fill: #000000 } 
+	</style>
+	<g id="STAKIN DESKTOP – 1" clip-path="url(#cp1)">
+		<path id="Rectangle 93" class="s0" d="m0 12c0-6.63 5.37-12 12-12h23c6.63 0 12 5.37 12 12v23c0 6.63-5.37 12-12 12h-23c-6.63 0-12-5.37-12-12v-23z" />
+	</g>
+</svg>

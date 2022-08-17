@@ -1,0 +1,19 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 133" width="133" height="133">
+	<title>COLLECTION</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-982-429h1920v1080h-1920z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { opacity: .5;fill: #ffffff;stroke: #707070 } 
+		.s1 { opacity: .5;fill: #ffffff } 
+	</style>
+	<g id="COLLECTION" clip-path="url(#cp1)">
+		<g id="Group 51" style="opacity: .3">
+			<path id="Rectangle 55" class="s0" d="m0 26c0-14.36 11.64-26 26-26h81c14.36 0 26 11.64 26 26v81c0 14.36-11.64 26-26 26h-81c-14.36 0-26-11.64-26-26v-81z" />
+			<path id="Icon awesome-image" fill-rule="evenodd" class="s1" d="m81.62 80h-29.25c-1.86 0-3.38-1.51-3.38-3.37v-20.25c0-1.86 1.51-3.38 3.38-3.38h29.25c1.86 0 3.38 1.51 3.38 3.38v20.25c0 1.86-1.51 3.37-3.38 3.37zm-24.75-23.06c-2.17 0-3.94 1.76-3.94 3.94c0 2.17 1.76 3.94 3.94 3.94c2.17 0 3.94-1.76 3.94-3.94c0-2.17-1.76-3.94-3.94-3.94zm-3.37 18.56h27v-7.88l-6.15-6.15c-0.33-0.33-0.86-0.33-1.19 0l-9.53 9.53l-3.9-3.9c-0.33-0.33-0.86-0.33-1.19 0l-5.03 5.03v3.37z" />
+		</g>
+	</g>
+</svg>
